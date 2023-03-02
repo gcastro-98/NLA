@@ -1,0 +1,390 @@
+C4-PROBLEM_strat1
+
+case n=3
+Execution time:0.10992574691772461seconds
+Iterations:15.0
+Precision:4.611102534756203e-16
+case n=4
+Execution time:0.015023946762084961seconds
+Iterations:15.0
+Precision:9.222205069512407e-16
+case n=5
+Execution time:0.019479751586914062seconds
+Iterations:17.0
+Precision:0.0
+case n=6
+Execution time:0.013472318649291992seconds
+Iterations:14.0
+Precision:1.167762038530536e-14
+case n=7
+Execution time:0.017514944076538086seconds
+Iterations:17.0
+Precision:0.0
+case n=8
+Execution time:0.01711869239807129seconds
+Iterations:16.0
+Precision:0.0
+case n=9
+Execution time:0.019350767135620117seconds
+Iterations:17.0
+Precision:1.3322676295501878e-15
+case n=10
+Execution time:0.01662731170654297seconds
+Iterations:14.0
+Precision:1.0570183596832284e-14
+case n=11
+Execution time:0.027292251586914062seconds
+Iterations:18.0
+Precision:0.0
+case n=12
+Execution time:0.021553754806518555seconds
+Iterations:16.0
+Precision:0.0
+case n=13
+Execution time:0.02588200569152832seconds
+Iterations:19.0
+Precision:0.0
+case n=14
+Execution time:0.02563762664794922seconds
+Iterations:18.0
+Precision:0.0
+case n=15
+Execution time:0.04596996307373047seconds
+Iterations:18.0
+Precision:0.0
+case n=16
+Execution time:0.029036760330200195seconds
+Iterations:18.0
+Precision:0.0
+case n=17
+Execution time:0.029331445693969727seconds
+Iterations:18.0
+Precision:0.0
+case n=18
+Execution time:0.03244495391845703seconds
+Iterations:19.0
+Precision:0.0
+case n=19
+Execution time:0.0331878662109375seconds
+Iterations:19.0
+Precision:0.0
+case n=20
+Execution time:0.030611515045166016seconds
+Iterations:17.0
+Precision:0.0
+case n=21
+Execution time:0.041434526443481445seconds
+Iterations:20.0
+Precision:0.0
+case n=22
+Execution time:0.03496408462524414seconds
+Iterations:18.0
+Precision:0.0
+case n=23
+Execution time:0.035976409912109375seconds
+Iterations:18.0
+Precision:0.0
+case n=24
+Execution time:0.035140275955200195seconds
+Iterations:17.0
+Precision:0.0
+case n=25
+Execution time:0.038916826248168945seconds
+Iterations:18.0
+Precision:0.0
+case n=26
+Execution time:0.041672706604003906seconds
+Iterations:18.0
+Precision:0.0
+case n=27
+Execution time:0.04002070426940918seconds
+Iterations:17.0
+Precision:0.0
+case n=28
+Execution time:0.04735708236694336seconds
+Iterations:20.0
+Precision:0.0
+case n=29
+Execution time:0.043834686279296875seconds
+Iterations:18.0
+Precision:0.0
+case n=30
+Execution time:0.04269814491271973seconds
+Iterations:17.0
+Precision:0.0
+case n=31
+Execution time:0.07967114448547363seconds
+Iterations:19.0
+Precision:0.0
+case n=32
+Execution time:0.05009341239929199seconds
+Iterations:18.0
+Precision:0.0
+case n=33
+Execution time:0.048548221588134766seconds
+Iterations:18.0
+Precision:0.0
+case n=34
+Execution time:0.12208914756774902seconds
+Iterations:18.0
+Precision:0.0
+case n=35
+Execution time:0.0543975830078125seconds
+Iterations:19.0
+Precision:0.0
+case n=36
+Execution time:0.06338000297546387seconds
+Iterations:20.0
+Precision:0.0
+case n=37
+Execution time:0.08388280868530273seconds
+Iterations:18.0
+Precision:0.0
+case n=38
+Execution time:0.10557007789611816seconds
+Iterations:20.0
+Precision:0.0
+case n=39
+Execution time:0.06040358543395996seconds
+Iterations:19.0
+Precision:0.0
+case n=40
+Execution time:0.061617136001586914seconds
+Iterations:19.0
+Precision:0.0
+case n=41
+Execution time:0.06295371055603027seconds
+Iterations:18.0
+Precision:0.0
+case n=42
+Execution time:0.06148242950439453seconds
+Iterations:18.0
+Precision:0.0
+case n=43
+Execution time:0.06937289237976074seconds
+Iterations:18.0
+Precision:0.0
+case n=44
+Execution time:0.06900715827941895seconds
+Iterations:19.0
+Precision:0.0
+case n=45
+Execution time:0.0706338882446289seconds
+Iterations:19.0
+Precision:0.0
+case n=46
+Execution time:0.06644749641418457seconds
+Iterations:20.0
+Precision:0.0
+case n=47
+Execution time:0.0724020004272461seconds
+Iterations:19.0
+Precision:0.0
+case n=48
+Execution time:0.07696819305419922seconds
+Iterations:20.0
+Precision:0.0
+case n=49
+Execution time:0.07899093627929688seconds
+Iterations:18.0
+Precision:0.0
+case n=50
+Execution time:0.07691764831542969seconds
+Iterations:19.0
+Precision:0.0
+case n=51
+Execution time:0.08809423446655273seconds
+Iterations:19.0
+Precision:0.0
+case n=52
+Execution time:0.08335423469543457seconds
+Iterations:18.0
+Precision:0.0
+case n=53
+Execution time:0.07754087448120117seconds
+Iterations:18.0
+Precision:0.0
+case n=54
+Execution time:0.08287620544433594seconds
+Iterations:19.0
+Precision:0.0
+case n=55
+Execution time:0.08096694946289062seconds
+Iterations:18.0
+Precision:0.0
+case n=56
+Execution time:0.08842039108276367seconds
+Iterations:19.0
+Precision:0.0
+case n=57
+Execution time:0.08338069915771484seconds
+Iterations:18.0
+Precision:0.0
+case n=58
+Execution time:0.08546924591064453seconds
+Iterations:18.0
+Precision:0.0
+case n=59
+Execution time:0.09771251678466797seconds
+Iterations:20.0
+Precision:0.0
+case n=60
+Execution time:0.09212064743041992seconds
+Iterations:19.0
+Precision:0.0
+case n=61
+Execution time:0.09466266632080078seconds
+Iterations:20.0
+Precision:0.0
+case n=62
+Execution time:0.09611010551452637seconds
+Iterations:20.0
+Precision:0.0
+case n=63
+Execution time:0.09673261642456055seconds
+Iterations:20.0
+Precision:0.0
+case n=64
+Execution time:0.0959312915802002seconds
+Iterations:19.0
+Precision:0.0
+case n=65
+Execution time:0.0953512191772461seconds
+Iterations:18.0
+Precision:0.0
+case n=66
+Execution time:0.09774589538574219seconds
+Iterations:19.0
+Precision:0.0
+case n=67
+Execution time:0.09922218322753906seconds
+Iterations:19.0
+Precision:0.0
+case n=68
+Execution time:0.11549854278564453seconds
+Iterations:19.0
+Precision:0.0
+case n=69
+Execution time:0.12286138534545898seconds
+Iterations:20.0
+Precision:0.0
+case n=70
+Execution time:0.15108513832092285seconds
+Iterations:20.0
+Precision:0.0
+case n=71
+Execution time:0.10367417335510254seconds
+Iterations:20.0
+Precision:0.0
+case n=72
+Execution time:0.12107086181640625seconds
+Iterations:20.0
+Precision:0.0
+case n=73
+Execution time:0.12973499298095703seconds
+Iterations:19.0
+Precision:0.0
+case n=74
+Execution time:0.13167977333068848seconds
+Iterations:19.0
+Precision:0.0
+case n=75
+Execution time:0.12801551818847656seconds
+Iterations:18.0
+Precision:0.0
+case n=76
+Execution time:0.14673352241516113seconds
+Iterations:20.0
+Precision:0.0
+case n=77
+Execution time:0.1445178985595703seconds
+Iterations:20.0
+Precision:0.0
+case n=78
+Execution time:0.14444756507873535seconds
+Iterations:19.0
+Precision:0.0
+case n=79
+Execution time:0.15232300758361816seconds
+Iterations:20.0
+Precision:0.0
+case n=80
+Execution time:0.14656734466552734seconds
+Iterations:18.0
+Precision:0.0
+case n=81
+Execution time:0.15163922309875488seconds
+Iterations:19.0
+Precision:0.0
+case n=82
+Execution time:0.15393710136413574seconds
+Iterations:18.0
+Precision:0.0
+case n=83
+Execution time:0.15694332122802734seconds
+Iterations:19.0
+Precision:0.0
+case n=84
+Execution time:0.16591358184814453seconds
+Iterations:20.0
+Precision:0.0
+case n=85
+Execution time:0.12781143188476562seconds
+Iterations:18.0
+Precision:0.0
+case n=86
+Execution time:0.25911521911621094seconds
+Iterations:19.0
+Precision:0.0
+case n=87
+Execution time:0.16622686386108398seconds
+Iterations:18.0
+Precision:0.0
+case n=88
+Execution time:0.16730165481567383seconds
+Iterations:18.0
+Precision:0.0
+case n=89
+Execution time:0.16322970390319824seconds
+Iterations:18.0
+Precision:0.0
+case n=90
+Execution time:0.15123200416564941seconds
+Iterations:20.0
+Precision:0.0
+case n=91
+Execution time:0.17611193656921387seconds
+Iterations:19.0
+Precision:0.0
+case n=92
+Execution time:0.18641018867492676seconds
+Iterations:20.0
+Precision:0.0
+case n=93
+Execution time:0.19078302383422852seconds
+Iterations:20.0
+Precision:0.0
+case n=94
+Execution time:0.2147986888885498seconds
+Iterations:19.0
+Precision:0.0
+case n=95
+Execution time:0.18952465057373047seconds
+Iterations:19.0
+Precision:0.0
+case n=96
+Execution time:0.19143128395080566seconds
+Iterations:19.0
+Precision:0.0
+case n=97
+Execution time:0.21372580528259277seconds
+Iterations:20.0
+Precision:0.0
+case n=98
+Execution time:0.19943785667419434seconds
+Iterations:19.0
+Precision:0.0
+case n=99
+Execution time:0.17371034622192383seconds
+Iterations:19.0
+Precision:0.0
